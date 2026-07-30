@@ -64,7 +64,7 @@ await page.waitForTimeout(3000);
 
 //toBeInabled assertion
 
-
+console.log("stash");
 
 
  
