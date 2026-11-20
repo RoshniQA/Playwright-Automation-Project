@@ -45,7 +45,7 @@ await signuppage.enterZipcode();
 await page.waitForTimeout(2000);
 await signuppage.enterMobile();
 await page.waitForTimeout(2000);
-console.log("Test Pass");
+console.log("Test Pass12");
 
 })
 
